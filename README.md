@@ -370,18 +370,6 @@ This makes the project more aligned with real-world product expectations than a 
 
 [![LexMind AI Demo](https://img.youtube.com/vi/Y9ACih2kBTU/0.jpg)](https://www.youtube.com/watch?v=Y9ACih2kBTU)
 
-**Recommended demo flow:**
-1. login
-2. open dashboard
-3. upload a contract
-4. show processing → ready
-5. open document detail
-6. run Executive Summary
-7. run Risk Scan
-8. run Clause Finder
-9. ask a question in chat with citations
-10. show export/history
-
 ---
 
 ## Commercial Angle
