@@ -366,9 +366,9 @@ This makes the project more aligned with real-world product expectations than a 
 
 ---
 
-## Demo Video
+## Demo
 
-A short demo video is available here: [Watch Demo](#)
+[![LexMind AI Demo](https://img.youtube.com/vi/Y9ACih2kBTU/0.jpg)](https://www.youtube.com/watch?v=Y9ACih2kBTU)
 
 **Recommended demo flow:**
 1. login
@@ -504,4 +504,4 @@ If you'd like to discuss this project, AI systems, software engineering, or pote
 
 **Role:** AI & Cloud Specialist / Software Engineer focused on AI systems
 
-**LinkedIn / Portfolio / Contact:** PASTE_HERE
+**LinkedIn / Portfolio / Contact:** www.linkedin.com/in/miguel-ribeiro-de-sousa
